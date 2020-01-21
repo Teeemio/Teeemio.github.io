@@ -60,8 +60,11 @@ plugins:
 author:
   name   : "Lu Yu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Be happy and creative.:satisfied:"
+  bio    : "Be happy and creative.:satisfied:; Master student studying at UC Berkeley;"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelop"
+      url: "https://teeemio.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://teeemio.com"
