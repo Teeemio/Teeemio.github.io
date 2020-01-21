@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Lu Yu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Be happy and creative.:satisfied:; Master student studying at UC Berkeley;"
+  bio    : "Be happy and creative.:satisfied:; Master's student at UC Berkeley;"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelop"
