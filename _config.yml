@@ -62,8 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Be happy and creative:satisfied:; EECS Master's student at UC Berkeley"
   links:
-    - label: [Email](mailto: lu.yu97@berkeley.edu)
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
+      url: mailto:lu.yu97@berkeley.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://teeemio.com"
