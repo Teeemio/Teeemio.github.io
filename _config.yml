@@ -60,10 +60,10 @@ plugins:
 author:
   name   : "Lu Yu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Be happy and creative.:satisfied:; Master's student at UC Berkeley;"
+  bio    : "Be happy and creative.:satisfied:; Master's student at UC Berkeley; lu.yu97 at berkeley dot com"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelop"
+      icon: "fas fa-fw fa-envelope"
       url: "lu.yu97@berkeley.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
