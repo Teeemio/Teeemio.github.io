@@ -4,7 +4,7 @@ title: "About"
 ---
 
 # Me
-I am Lu Yu(俞露), a Master's student at UC Berkeley, majoring in Computer Science and Electronic Engineering advised by Prof. Alexandre M. Bayen. My research interest lies in optimization, computer vision (object detection; inpainting; generative model), reinforcement learning.
+I am Lu Yu(俞露), a Master's student at UC Berkeley, majoring in Computer Science and Electronic Engineering advised by [Prof. Alexandre M. Bayen](https://www2.eecs.berkeley.edu/Faculty/Homepages/bayen.html). My research interest lies in optimization, computer vision (object detection; inpainting; generative model), reinforcement learning.
 
 # Research Experiences
 
