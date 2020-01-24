@@ -9,7 +9,7 @@ I am Lu Yu(俞露), a Master's student at UC Berkeley, majoring in Computer Scie
 # Research Experiences
 
 * **Inpainting Model with Texture-Aware Decoder Guided by Image Segmentation**
-Research Assistant under Professor Kurt Keutzer at UC Berkeley
+Research Assistant under Professor Stella Yu at UC Berkeley
 	* Designed and implemented an inpainting pipeline for street view images using Pytorch
 	* Our inpainting pipeline includes two-branch information encoders: a content encoder and a context encoder, followed by a texture-aware decoder
 	* The pipeline performs better than the state of the art in both quantitive and qualitative metrics with big holes inpainting
